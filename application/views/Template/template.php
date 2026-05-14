@@ -62,7 +62,7 @@
 				<!-- mini logo for sidebar mini 50x50 pixels -->
 				<span class="logo-mini"><b>P</b>OS</span>
 				<!-- logo for regular state and mobile devices -->
-				<span class="logo-lg"><b>POS TOKO MUMU</b></span>
+				<span class="logo-lg"><b>POINT OF SALES</b></span>
 			</a>
 			<!-- Header Navbar: style can be found in header.less -->
 			<nav class="navbar navbar-static-top">
