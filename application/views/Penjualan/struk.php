@@ -77,7 +77,7 @@
                                     <div>
                                         <div style="text-align:center;font: size 11px;">
                                             <img src="<?php echo base_url(); ?>assets/images/logostruk.png" style="max-width:150px;" alt="BILBILWEST">
-                                            <p style="text-align:center; font-size: 11px;"><strong>Toko Mumu</strong><br>Kp.babakan gorobog, Ds.Kadubale, Kec.Banjar, Kab.Pandeglang BANTEN 085774956742</p>
+                                            <p style="text-align:center; font-size: 11px;"><strong>Toko Anda</strong><br>Kp.babakan gorobog, Ds.Kadubale, Kec.Banjar, Kab.Pandeglang BANTEN 085173223018</p>
                                             <p><HR></HR></p>
                                         
                                         <p>
